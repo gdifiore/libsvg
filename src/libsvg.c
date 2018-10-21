@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
-#include "svg.h"
+#include "libsvg.h"
 
 static void appendstringtosvg(svg* psvg, char* text)
 {

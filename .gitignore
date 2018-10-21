@@ -1,6 +1,9 @@
 # VSCode
 *.vscode
 
+# Other
+*.exe
+
 # Prerequisites
 *.d
 
